@@ -1,0 +1,10 @@
+.title{
+  font-size: large;
+  font-weight: bold;
+  color: blueviolet;
+}
+.image{
+  display:flex;
+  justify-content: center;
+  align-items:center; 
+}

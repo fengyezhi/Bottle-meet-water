@@ -1,0 +1,17 @@
+/* pages/logs/listen.wxss */
+.intro {
+  padding: 24px 10%;
+  color:#6495ED;
+  line-height: 1.5;
+  text-align:center;
+}
+
+.btn1{
+  width: 60%;
+}
+
+.image{
+  display:flex;
+  justify-content: center;
+  align-items:center; 
+}

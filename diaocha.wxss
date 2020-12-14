@@ -1,0 +1,3 @@
+/* pages/logs/diaocha.wxss */
+.zitidaxiao{font-size: 25px;}
+.buttton{background-color: yellowgreen;}

@@ -1,0 +1,58 @@
+/* pages/logs/temp.wxss */
+/*tianqi.wxss*/
+.canvas{
+  width: 100%;
+  height: 180px;
+}
+
+.chart1{
+  top: 0px;
+}
+
+.chart2{
+  top: 20px
+}
+
+.shuiwen{
+  color:#5ee6bd;
+  height: fit-content;
+  width: fit-content;
+}
+
+.shuiliang{
+  color: cornflowerblue;
+  height: fit-content;
+  width: fit-content;
+}
+
+.zhishi1{
+  font-weight: bold;
+  font-size: larger;
+  color: #328856;
+}
+
+.zhishi2{
+  font-weight: bold;
+  font-size: larger;
+  color: rgb(62, 102, 175);
+}
+
+.fankui1{
+  color:red;
+  font-size: large;
+}
+
+.fankui2{
+  color:lightgreen;
+  font-size: large;
+}
+
+.fankui3{
+  color:lightskyblue;
+  font-size: large;
+}
+
+.user-motto{
+  color:lightpink;
+  font-size:large;
+}

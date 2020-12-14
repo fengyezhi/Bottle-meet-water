@@ -1,0 +1,20 @@
+<!--pages/logs/douxiang.wxml-->
+<view><text class="title">多喝水有什么好处呢？</text></view>
+<view class="image"><image src="/image/heshui6.jpg"></image></view>
+<view>1、帮助消化：</view>
+
+<view><text space="emsp">  我们吃进嘴里的食物，经牙齿咀嚼bai和唾液润湿后，进行从食管到胃肠、完成消化并被吸收的消化过程，这些环节都要水分来参与，加速体液对营养成分的溶解。</text></view>
+
+<view>2、排泄废物：</view>
+
+<view><text space="emsp">  食物的营养消化吸收后剩余的残渣废物，要通过出汗、呼吸及排泄的方式排出体外，这几种不同的排泄方式都需水分的帮助才能实现。</text></view>
+
+<view>3、润滑关节：</view>
+
+<view><text space="emsp">  人体关节之间需要有润滑液，来避免骨头之间的损坏性摩擦，而水则是关节润滑液的主要来源。</text></view>
+
+<view> 4、平衡体温：</view>
+
+<view><text space="emsp">  当环境温度低于体温时，为了维持身体温度保证正常生理活动，体内水分会因缩小的毛孔减少蒸发而保留在体内；环境温度高于体温，水分就会通过扩张的毛细血管呼吸孔排出体外，降低体温。身体通过水的流散保证生存功能。</text></view>
+
+<view><text space="emsp">  这些小知识，学到了吗？下次可不要忘记喝水哟~</text></view>

@@ -1,0 +1,16 @@
+<view class="fenxiang">精心为你分享喝水tips，</view>
+<view class="fenxiang">养成更加良好的喝水习惯~</view>
+<view>
+  <text class="faxian">PS:点击图片，可以发现新的内容哦~</text>
+</view>
+
+<view bindtap="heshui1" class="image"><image src="/image/heshui11.jpg" mode="aspectFit"></image></view>
+
+<view bindtap="heshui2" class="image"><image src="/image/heshui12.jpg" mode="aspectFit"></image></view>
+
+<view bindtap="heshui3" class="image"><image src="/image/heshui5.jpg" mode="aspectFit"></image></view>
+
+<view bindtap="heshui4" class="image"><image src="/image/heshui1.jpg" mode="aspectFit"></image></view>
+
+<view bindtap="heshui5" class="image"><image src="/image/heshui3.jpg" mode="aspectFit"></image></view>
+

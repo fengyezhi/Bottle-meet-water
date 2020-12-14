@@ -1,0 +1,11 @@
+.title{
+  font-size: large;
+  font-weight: bold;
+  color: darkcyan;
+}
+
+.image{
+  display:flex;
+  justify-content: center;
+  align-items:center; 
+}

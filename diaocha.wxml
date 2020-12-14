@@ -1,0 +1,11 @@
+<!--pages/logs/diaocha.wxml-->
+<text class="zitidaxiao" >
+  问卷调查
+</text>
+
+<view>
+  <textarea class="input" placeholder="请输入您对该小程序的建议~"
+  placeholder-style="color:#4169E1" adjust-position="true"
+   type="text"/>
+</view>
+<view><button style="color:#008B8B" form-type="submit" bindtap="tijiao">提交</button></view>

@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/logs/shouye",
+    "pages/logs/tips",
+    "pages/logs/heshui1",
+    "pages/logs/heshui2",
+    "pages/logs/heshui3",
+    "pages/logs/heshui4",
+    "pages/logs/heshui5",
+    "pages/logs/bottleInfo",
+    "pages/logs/userInfo",
+    "pages/logs/logs",
+    "pages/index/index",
+    "pages/logs/tiaozhuan",
+    "pages/logs/diaocha",
+    "pages/logs/temp",
+    "pages/logs/information",
+    "pages/logs/caidan1",
+    "pages/logs/xiaozhishi",
+    "pages/logs/xiaozhishi2",
+    "pages/logs/caidan2",
+    "pages/logs/caidan3"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#B0C4DE",
+    "navigationBarTitleText": "瓶水相逢",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#778899",
+    "selectedColor": "#9370DB",
+    "backgroundColor": "#E6E6FA",
+    "list": [
+      {
+        "pagePath": "pages/logs/tips",
+        "text": "喝水TIPS",
+        "iconPath": "image/jieshao2.png",
+        "selectedIconPath": "image/jieshao2.png"
+      },
+      {
+        "pagePath": "pages/logs/bottleInfo",
+        "text": "水杯信息",
+        "iconPath": "image/shuibei6.png",
+        "selectedIconPath": "image/shuibei6.png"
+      },
+      {
+        "pagePath": "pages/logs/userInfo",
+        "text": "个人信息",
+        "iconPath": "image/gerenxinxi.png",
+        "selectedIconPath": "image/gerenxinxi.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

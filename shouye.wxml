@@ -1,0 +1,19 @@
+<view class="container" hover-class="lalala"><text class="shouju">这是写给你的话</text>(≧∇≦)ﾉ欢迎来到我们的小程序噢！！我们的开发人员一共有两位啦：刘嘉欣和刘紫萱。这个小程序是专门为了你能够健康快乐地喝水而准备的，可以多点一点我们的小程序界面啦，以便于发现新的内容噢~（不过整体有点简陋，请不要嫌弃啦球球了）</view>
+
+<view class="image">
+  <navigator url="/pages/logs/caidan1">
+    <image src="../../image/bottle4.jpg" mode="aspectFit"></image>
+  </navigator>
+</view>
+<view>
+<text class="page_title">咳咳，接下来，我们准备开启水杯之旅啦(๑′ᴗ‵๑)Lᵒᵛᵉᵧₒᵤ
+</text>
+</view>
+
+
+<view style="color:#00BFFF">{{dianjiyixia}}</view>
+
+<button style="color:#008B8B">
+  <navigator url="/pages/logs/tips" open-type="switchTab">LET'S READY
+  </navigator>
+</button>

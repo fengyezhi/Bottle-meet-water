@@ -1,0 +1,41 @@
+<view class="container">
+  <view class="list">
+    <view class="shuiwen">
+  当~现在水温为：{{temp}}
+    </view>
+</view>
+
+<canvas class = "canvas" id="chart1"
+canvas-id="tempe"></canvas>
+
+<view bindtap="xiaozhishi1">
+  <button class="zhishi1">水温推荐</button>
+</view>
+<button class="zhishi1">
+  <navigator url="/pages/logs/xiaozhishi">小知识1</navigator>
+</button>
+
+
+<view class="fankui1"><text space="ensp">{{shuiwenfankui1}}</text></view>
+<view class="fankui2"><text space="ensp">{{shuiwenfankui2}}</text></view>
+<view class="fankui3"><text space="ensp">{{shuiwenfankui3}}</text></view>
+
+<view class="shuiliang">
+  叮~现在水量为：{{amount}}
+</view>
+<canvas class = "canvas" id="chart2"
+canvas-id="amount"></canvas>
+
+<view bindtap="xiaozhishi2">
+  <button class="zhishi2">水量推荐</button>
+</view>
+<button class="zhishi2">
+  <navigator url="/pages/logs/xiaozhishi2">小知识2</navigator>
+</button>
+
+<view class="user-motto">{{shuiliangfankui}}</view>
+
+</view>
+
+
+

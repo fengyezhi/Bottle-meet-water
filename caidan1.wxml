@@ -1,0 +1,6 @@
+<view>
+  <text class="title" space="emsp">彩蛋~哟嚯！</text>
+</view>
+<view>你喜欢我吗？？（⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄</view>
+<view>我喜欢你呀</view>
+<view class="image"><image src="/image/1.jpg" mode="aspectFit"></image></view>

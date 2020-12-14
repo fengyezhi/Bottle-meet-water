@@ -1,0 +1,11 @@
+<view class="intro">
+  连接成功啦~快来康康水温吧
+  <navigator url="/pages/logs/caidan3">♪(^∇^*)</navigator>
+ 
+</view>
+
+
+
+<button class="btn1" bindtap="navigate">点击此处，可以查看查看当前温度哦~</button>
+
+<view class="image"><navigator url="/pages/logs/caidan2"><image src="/image/shuibei5.png" mode="aspectFit"></image></navigator></view>

@@ -1,0 +1,5 @@
+<!--pages/logs/caidan3.wxml-->
+<view class="title">又来一枚彩蛋嘿嘿๑乛◡乛๑</view>
+<view>这次来个帅哥</view>
+<image src="/image/2.jpg" mode="aspectFit" class="image"></image>
+

@@ -1,0 +1,31 @@
+<!--pages/logs/qita.wxml-->
+<view>
+  <text class="title">塑料水杯有毒吗？看一看吧~</text>
+</view>
+
+<view><text space="emsp">  很多人都知道塑料水杯在加入高温热水的时候，总会有一股奇怪的味道，那么这样的水杯有没有毒呢？</text></view>
+
+<view><text space="emsp">  塑料分很多种，用于制造水杯的一般是一种被称为PC的塑料，也用于制造奶瓶、太空杯等。用这种塑料制造的杯子，一般在瓶底会有一个三角型里面标07(那些不知道什么工厂生产的杯子连厂家都没，自然就更没有这些标志了)。</text></view>
+
+<view class="image"><image src="/image/shuibei3.jpg"></image></view>
+
+<view><text space="emsp">  PC塑料在制作过程中用到一种叫双酚A(双酚A类似雌激素，可以引发人体荷尔蒙的反应。它是含有两个酚基官能团的有机化合物，是一些重要聚合物的原料和添加剂。)的原材料，这种材料如果百分百转化成PC塑料的话，那造成的塑料是没毒的，但这仅仅是理论上的，实际制造中总会有微量的双酚A没被转化而留在PC塑料里，所以PC塑料制造的塑料杯在一定条件下总是会有点毒的。PC塑料中残留的双酚A，温度愈高，释放愈多，速度也愈快。因此，不应以PC水瓶盛热水。</text></view>
+
+<view><text space="emsp">  如果你的水杯底部编号为 07，下列方法可降低风险：</text></view>
+
+<view><text space="emsp">1、使用时勿加热，勿在阳光下直射。</text></view>
+
+<view><text space="emsp">2、不用洗碗机、烘碗机清洗水壶。</text></view>
+
+<view><text space="emsp">3、第一次使用前，用小苏打粉加温水清洗，在室温中自然烘干。</text></view>
+
+<view><text space="emsp">4、如果容器有任何摔伤或破损，建议停止使用。</text></view>
+
+<view><text space="emsp">  因为塑料制品表面如果有细微的坑纹，容易藏细菌。还有其他塑料制造的塑料杯，比如PP，即聚丙烯。</text></view>
+
+<view><text space="emsp">  那么，pp塑料有毒吗?如果您家塑料杯下面的标记是05，那您可以放心了，这是一种无毒的塑料，没有致害的原材料。</text></view>
+
+<view><text space="emsp">  以上塑料杯喝开水的问题，还真就是个问题呢！很多人家里都有塑料的盛水容器，但是像上面一样使用不当就会引发安全隐患，对身体产生难以估量的后果。</text></view>
+
+<view><text space="emsp">  所以建议用玻璃杯比较好噢~当然用玻璃杯也要小心，防止打碎伤到手哦~</text></view>
+

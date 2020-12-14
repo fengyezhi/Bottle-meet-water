@@ -1,0 +1,12 @@
+.title{
+  color: dimgray;
+  font-size: xx-large;
+  font-weight: 900;
+  text-align: center;
+}
+
+.image{
+  display:flex;
+  justify-content: center;
+  align-items:center; 
+}

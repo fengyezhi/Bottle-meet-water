@@ -1,0 +1,15 @@
+.fenxiang{
+  color:pink;
+}
+
+.image{
+  display:flex;
+  justify-content: center;
+  align-items:center; 
+}
+
+.faxian{
+  color: darkolivegreen;
+  font-weight: lighter;
+  font-size: small;
+}

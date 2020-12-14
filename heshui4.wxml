@@ -1,0 +1,13 @@
+<view>
+  <text class="title">喝水应该大口喝还是小口喝？来看看你有没有用正确的打开方式喝水吧~(✪ω✪)</text>
+</view>
+
+
+<view class="page-body">
+    <view class="page-section page-section-spacing">
+      <view class="text-box" scroll-y="true" scroll-top="{{scrollTop}}">
+        <text space="emsp">{{text}}</text>
+      </view>
+      <button disabled="{{!canAdd}}" bindtap="add" style="color:#FFD700">点击展开正确喝水姿（方）势（法）</button>
+    </view>
+</view>
